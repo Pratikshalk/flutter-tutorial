@@ -1,4 +1,4 @@
-# login_app
+# flutter_tutorial
 
 A new Flutter project.
 
